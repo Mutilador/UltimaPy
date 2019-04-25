@@ -1,3 +1,5 @@
+This is a fork UltimaPy -> https://bitbucket.org/nightshark/ultimapy
+
 For purposes of creating UO images on Ubuntu web servers. UOP support not planned.
 
 Do I know what I'm doing? No. Do you? Then do something about it and make a pull request.
